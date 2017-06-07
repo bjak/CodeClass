@@ -5,5 +5,5 @@ def test_code():
 
       import ipdb; ipdb.set_trace()
       
-      assert variable_1 == variable_2
+      assert variable_1 ==  variable_2
  
